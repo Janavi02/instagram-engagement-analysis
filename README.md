@@ -26,7 +26,7 @@ Instagram Analytics dataset from Kaggle
 - Image posts get more likes
 
 ## 📈 Dashboard
-(Add your Tableau link here)
+https://public.tableau.com/authoring/InstagramAnalysisDashboard_17756070914360/Dashboard1#1
 
 ## 🚀 Conclusion
 Posting time, day, and content type impact engagement significantly.
