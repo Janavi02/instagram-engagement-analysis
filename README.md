@@ -28,5 +28,8 @@ Instagram Analytics dataset from Kaggle
 ## 📈 Dashboard
 https://public.tableau.com/authoring/InstagramAnalysisDashboard_17756070914360/Dashboard1#1
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## 🚀 Conclusion
 Posting time, day, and content type impact engagement significantly.
